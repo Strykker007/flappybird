@@ -1,6 +1,6 @@
 # FlappyBird with flame pack
 
-O projeco foi criado utilizando o flutter 3.13.2, para estudos da biblioteca flame do flutter para criação de jogos, este projeto é uma cópia do flappybird original.
+O projeto foi criado utilizando o flutter 3.13.2, para estudos da biblioteca flame do flutter para criação de jogos, este projeto é uma cópia do flappybird original.
 
 # Para executar os aplicativos
 
