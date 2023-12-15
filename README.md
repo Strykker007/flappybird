@@ -1,16 +1,23 @@
-# flappyproject
+# FlappyBird with flame pack
 
-A new Flutter project.
+O projeco foi criado utilizando o flutter 3.13.2, para estudos da biblioteca flame do flutter para criação de jogos, este projeto é uma cópia do flappybird original.
 
-## Getting Started
+# Para executar os aplicativos
 
-This project is a starting point for a Flutter application.
+* Baixe o código fonte do projeto
 
-A few resources to get you started if this is your first Flutter project:
+* É necessário a versão do flutter 3.13.0 ou superior:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* No diretório do aplicativo específico, atualizar as dependências do mesmo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+
+# Contato
+
+Para mais informações, entrar em contato.
+
+```
+tiago433@hotmail.com
+```
